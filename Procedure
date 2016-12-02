@@ -1,0 +1,4 @@
+To run this Jar file 
+
+java -jar xxxx.jar <HDFS URI>  <config file path>
+
